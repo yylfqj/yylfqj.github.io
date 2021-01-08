@@ -46,7 +46,7 @@ layout: page
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      发布时间：{{ post.date }}
+      发布时间：{{ post.date | date: date_format }}
     </p>
 
     {% if thumbnail != "" %}
