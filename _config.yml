@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: YYL fqj
+title: 颜翊龙
 
 # Your name to show in the footer
-author: YYL
+author: 颜翊龙
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "颜翊龙"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
