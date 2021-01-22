@@ -9,7 +9,7 @@ tags: [Linux, Java, 防火墙, 端口]
 
 ```shell
 #永久关闭防火墙
-systemctl enable firewalld
+systemctl disable firewalld
 #零时关闭防火墙
 systemctl stop firewalld
 ```
